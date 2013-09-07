@@ -18,8 +18,8 @@ Create widgets for any Stack Exchange site, display questions or answers by spec
 * Stack Exchange API library: [StackPHP](http://stackapps.com/q/826/10590)
 
 * Dropdown with icons: [Image dropdown](https://github.com/marghoobsuleman/ms-Dropdown), by Marghoob Suleman.
-##Changelog
 
+##Changelog
 
 ### 1.0
 * Initial Public Release
