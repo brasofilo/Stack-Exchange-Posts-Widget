@@ -1,0 +1,134 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: European Law Compliance Message\n"
+"POT-Creation-Date: 2013-09-02 03:20+0100\n"
+"PO-Revision-Date: 2013-09-02 03:20+0100\n"
+"Last-Translator: Rodolfo Buaiz <brasofilo@gmai.com>\n"
+"Language-Team:  <brasofilo@gmail.com>\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: __;gettext;gettext_noop;_e\n"
+"X-Poedit-Basepath: ./\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../stack-exchange-posts-widget.php:73
+msgid ""
+"Display posts by User in any Stack Exchange site. Or show the recent "
+"activity."
+msgstr ""
+
+#: ../stack-exchange-posts-widget.php:86
+msgid "Stack Exchange Posts"
+msgstr ""
+
+#: ../stack-exchange-posts-widget.php:173
+msgid "Title"
+msgstr ""
+
+#: ../stack-exchange-posts-widget.php:174 ../temp.php:130
+msgid "User ID: <small>(Leave empty to list global Q&amp;A's)</small>"
+msgstr ""
+
+#: ../stack-exchange-posts-widget.php:175
+msgid "Posts per page"
+msgstr ""
+
+#: ../stack-exchange-posts-widget.php:178 ../temp.php:134
+msgid "Show subtitle? <small>(User/Site information bellow the title.)</small>"
+msgstr ""
+
+#: ../stack-exchange-posts-widget.php:179 ../temp.php:135
+msgid "Randomize site? <small>(Only works when User not selected.)</small>"
+msgstr ""
+
+#: ../stack-exchange-posts-widget.php:180 ../temp.php:136
+msgid "Show Questions? <small>(Leave unchecked to show Answers.)</small>"
+msgstr ""
+
+#: ../stack-exchange-posts-widget.php:183 ../temp.php:139
+msgid "SE Best Answers by"
+msgstr ""
+
+#: ../stack-exchange-posts-widget.php:252
+msgid "Order"
+msgstr ""
+
+#: ../stack-exchange-posts-widget.php:260
+msgid "Sort"
+msgstr ""
+
+#: ../temp.php:37
+msgid "Best Answers from selected user in any given Stack Exchange site"
+msgstr ""
+
+#: ../temp.php:50
+msgid "SE Best Answers by user"
+msgstr ""
+
+#: ../temp.php:129
+msgid "Title:"
+msgstr ""
+
+#: ../temp.php:131
+msgid "Posts per page:"
+msgstr ""
+
+#: ../temp.php:181
+msgid "Target site:"
+msgstr ""
+
+#: ../temp.php:205
+msgid "Order:"
+msgstr ""
+
+#: ../temp.php:206
+msgid "Sort:"
+msgstr ""
+
+#: ../includes/class-widget-settings.php:57
+msgid "Settings"
+msgstr ""
+
+#: ../includes/class-widget-settings.php:175
+msgid "Disable CSS"
+msgstr ""
+
+#: ../includes/class-widget-settings.php:179
+msgid "See the plugin"
+msgstr ""
+
+#: ../includes/class-widget-settings.php:181
+msgid "CSS file"
+msgstr ""
+
+#: ../includes/class-widget-settings.php:182
+msgid "to copy the rules."
+msgstr ""
+
+#: ../includes/class-widget-settings.php:199
+msgid "Disable cache"
+msgstr ""
+
+#: ../includes/class-widget-settings.php:203
+msgid "Use only for debugging purposes"
+msgstr ""
+
+#: ../includes/class-widget-settings.php:215
+msgid "Empty cache"
+msgstr ""
+
+#: ../includes/fields-helper.php:53
+msgid "votes"
+msgstr ""
+
+#: ../includes/fields-helper.php:54
+msgid "answers"
+msgstr ""
+
+#: ../includes/fields-helper.php:282
+msgid "Target site"
+msgstr ""

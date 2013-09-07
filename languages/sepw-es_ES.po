@@ -1,0 +1,167 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: European Law Compliance Message\n"
+"POT-Creation-Date: 2013-09-02 14:50+0100\n"
+"PO-Revision-Date: 2013-09-02 14:54+0100\n"
+"Last-Translator: Rodolfo Buaiz <brasofilo@gmai.com>\n"
+"Language-Team:  <brasofilo@gmail.com>\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: __;gettext;gettext_noop;_e\n"
+"X-Poedit-Basepath: ./\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../stack-exchange-posts-widget.php:62
+msgid ""
+"List Questions or Answers by User or by Site. Select a site, enter the user "
+"ID and the number of posts. The most upvoted are listed with an indication "
+"if it is accepted and a count with the score."
+msgstr ""
+
+#: ../stack-exchange-posts-widget.php:125
+msgid "Settings"
+msgstr "Ajustes"
+
+#: ../stack-exchange-posts-widget.php:142
+msgid "Stack Exchange Posts Widget"
+msgstr "Widget de Posts en Stack Exchange"
+
+#: ../stack-exchange-posts-widget.php:238
+msgid "Disable CSS"
+msgstr "Desactivar CSS"
+
+#: ../stack-exchange-posts-widget.php:242
+msgid "See the plugin"
+msgstr "Mira el"
+
+#: ../stack-exchange-posts-widget.php:244
+msgid "CSS file"
+msgstr "archivo CSS"
+
+#: ../stack-exchange-posts-widget.php:245
+msgid "to copy the rules."
+msgstr "para copiar las reglas"
+
+#: ../stack-exchange-posts-widget.php:262
+msgid "Disable cache"
+msgstr "Desactivar caché"
+
+#: ../stack-exchange-posts-widget.php:266
+msgid "For debugging purposes only"
+msgstr "Usa solo para <i>debugging</i>"
+
+#: ../stack-exchange-posts-widget.php:279
+msgid "Disable advanced Sites Dropdown"
+msgstr "Desactivar el Dropdown Avanzado de Sites"
+
+#: ../stack-exchange-posts-widget.php:283
+msgid ""
+"It may be buggy sometimes. E.G.: The Advanced Dropdown only works after "
+"saving the widget for the first time. And it is not tested in all browsers."
+msgstr ""
+"A veces puede dar problemas. P.ej.: el Dropdown Avanzado solo funciona "
+"después de guardar el widget por la primera vez. Y no está comprobado en "
+"todos los navegadores."
+
+#: ../stack-exchange-posts-widget.php:295
+msgid "Empty cache"
+msgstr "Vaciar caché"
+
+#: ../includes/class-widget.php:28
+msgid "Ascending"
+msgstr "Ascendente"
+
+#: ../includes/class-widget.php:29
+msgid "Descending"
+msgstr "Descendiente"
+
+#: ../includes/class-widget.php:32
+msgid "Votes"
+msgstr "Votos"
+
+#: ../includes/class-widget.php:33
+msgid "Activity"
+msgstr "Actividad"
+
+#: ../includes/class-widget.php:34
+msgid "Creation"
+msgstr "Creación"
+
+#: ../includes/class-widget.php:39
+msgid ""
+"Display posts by User in any Stack Exchange site. Or show the recent "
+"activity."
+msgstr ""
+"Mostrar posts pro Usuario en cualquier sitio Stack Exchange. O mostrar la "
+"actividad reciente."
+
+#: ../includes/class-widget.php:52 ../includes/class-widget.php:163
+msgid "Stack Exchange Posts"
+msgstr "Posts en Stack Exchange"
+
+#: ../includes/class-widget.php:137
+msgid "Title"
+msgstr "Titulo"
+
+#: ../includes/class-widget.php:140
+msgid "User ID"
+msgstr "ID de Usuario"
+
+#: ../includes/class-widget.php:141
+msgid "Leave empty to list global Q&amp;A's."
+msgstr "Dejar vacío para mostrar Q&A's globales."
+
+#: ../includes/class-widget.php:143
+msgid "Posts per page"
+msgstr "Número de entradas"
+
+#: ../includes/class-widget.php:148
+msgid "Show subtitle?"
+msgstr "Mostrar subtitulo"
+
+#: ../includes/class-widget.php:149
+msgid "User/Site information bellow the title."
+msgstr "Información del Usuario o Site abajo del título"
+
+#: ../includes/class-widget.php:153
+msgid "Randomize site?"
+msgstr "Site aleatorio"
+
+#: ../includes/class-widget.php:154
+msgid "Only works when User not selected."
+msgstr "Solo funciona si ID de Usuario esta vacío"
+
+#: ../includes/class-widget.php:158
+msgid "Show Questions?"
+msgstr "Mostrar Preguntas?"
+
+#: ../includes/class-widget.php:159
+msgid "Leave unchecked to show Answers."
+msgstr "Dejar desmarcado para mostrar Respuestas"
+
+#: ../includes/class-widget.php:235
+msgid "Order"
+msgstr "Orden"
+
+#: ../includes/class-widget.php:243
+msgid "Sort"
+msgstr "Ordenar"
+
+#: ../includes/fields-helper.php:53
+msgid "votes"
+msgstr "votos"
+
+#: ../includes/fields-helper.php:54
+msgid "answers"
+msgstr "respuestas"
+
+#: ../includes/fields-helper.php:283
+msgid "Target site"
+msgstr "Elegir sítio"
+
+#~ msgid "Title:"
+#~ msgstr "T"

@@ -1,0 +1,110 @@
+.se-status, se-post-title {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+}
+.se-post-summary {
+    border-bottom: 1px solid #e0e0e0;
+    -moz-box-shadow: 0 1px 0 #fff;
+    -webkit-box-shadow: 0 1px 0 #fff;
+    box-shadow: 0 1px 0 #fff;
+    padding: 8px 0;
+    overflow: hidden;
+}  
+.se-post-summary h2{
+    font-size: 1em;
+}  
+.se-status {
+    float: left;
+    font-size: 10px;
+    color: #888;
+    text-align: center;
+    width: 40px;
+    background-color: #E9E9E9;
+    padding: 3px 0;
+}
+.se-post-title {
+    padding-left: 5px;
+    float:left;
+    width:80%
+}
+.se-hyperlink {
+    font-size: 14px;
+    color: #8a2621;
+    line-height: 1.15;
+    text-decoration: none
+}
+.se-post-meta {
+    font-size: 10px;
+    float: left;
+    margin-top: 4px;
+}
+.se-votes {
+    width: 100%;
+    float: left;
+    text-align: center;
+    font-size: 10px;
+    margin: 0 auto;
+}
+.se-post-tag, .se-post-tag:visited {
+    color: #777!important;
+    background-color: #eee;
+    border-right: 1px solid #ccc;
+    border-bottom: 1px solid #ccc;
+    text-shadow: 0 1px 0 #fff;
+    width:auto;
+    height:auto;
+    text-decoration: none;
+    font-size: .7em;
+    padding: 2px;
+    margin-right: 3px;
+    line-height: 2.2em;
+}
+.se-post-tag:hover {
+    color: #4C9067;
+    background-color: #E0F0D3;
+}
+.relativetime {
+    color: #aaa;
+}
+.answered-accepted {
+    color: #4C9067;
+    background-color: #E0F0D3;
+    padding: 4px 0 4px 0;
+    margin: 0 0 -3px;
+}
+.answers-count {
+    margin-top: 5px
+}
+.mini-counts {
+    font-weight: bolder;
+}
+.mini-text {
+    font-size: 9px;
+    line-height: 13px;
+}
+.se-subtitle .se-post-meta.relativetime {
+    text-transform: none;
+    line-height: 11px;
+}
+
+.se-subtitle {
+    margin-bottom: 2em;
+}
+
+.se-subtitle > small {
+font-size: 11px;
+}
+
+.site-logo {
+    width: 16px;
+    height: 16px;
+    float: left;
+    padding: 0 10px 0 0;
+}
+.se-status-answer .se-votes {
+    height: 35px;
+}
