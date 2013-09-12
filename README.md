@@ -1,6 +1,8 @@
 Stack Exchange Posts Widget
 ===========================
 
+***This plugin will now be maintened at [WordPress Repository](http://wordpress.org/plugins/stack-exchange-posts-widget/). This Git is for testing purposes only.***
+
 Create widgets for any Stack Exchange site, display questions or answers by specific users or generic for the whole site. The random mode will show posts from different sites at each page view.
 
 
